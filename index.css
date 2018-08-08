@@ -33,7 +33,7 @@ html, body {
     }
 
     .background:first-child {
-        background-image: url(/img/bg1.svg);
+        background-image: url(img/bg1.svg);
         -webkit-transform: translateY(-15vh);
         transform: translateY(-15vh);
     }
@@ -44,11 +44,11 @@ html, body {
         }
 
     .background:nth-child(2) {
-        background-image: url(/img/bg2.svg);
+        background-image: url(img/bg2.svg);
     }
 
     .background:nth-child(3) {
-        background-image: url(/img/bg3.svg);
+        background-image: url(img/bg3.svg);
     }
 
     /* Set stacking context of slides */
